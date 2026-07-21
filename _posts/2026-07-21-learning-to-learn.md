@@ -1,0 +1,27 @@
+---
+title: "Learning to Learn"
+date: 2026-07-21 10:00:00 -0400
+categories: [Learning]
+tags: [deliberate-practice, chunking, variability, feedback, practice]
+description: How to actually get better at golf — smaller circles, deliberate variability, spaced rest, and measurement, drawn from Waitzkin, Adam Young, and modern learning science.
+---
+
+Part of golf's staying power is that it, like many solo sports, creates a microcosm of life in which we can learn about ourselves.
+
+In The Art of Learning, Josh Waitzkin describes a principle he calls "making smaller circles." When learning a skill, our entire focus is on executing broadly. In golf, just hitting the ball is a win. As we develop proficiency with a skill, we are able to focus attention on other details, a smaller circle because the bigger circle doesn't require our full attention. Most beginners are going to focus on a position in the swing and will struggle with feeling lag. As they progress, the positions are grooved and the swing smooths out, allowing focus to transfer to more nuanced aspects of the swing. Ultimately, we want to not have to think at all about skill execution, but we need to be committed to the process. This is why most mental training books and coaches advocate for visualizing the target.
+
+Don't confuse delay for failure. Many of the skills we are trying to enhance take time to change. This is even more true the more engrained a skill, or habit, is. Struggling with a skill typically means that we are in a space where we can actually learn. Mindless repetition is not going to be as effective as a few repetitions with some sort of difference present.
+
+This is pretty counterintuitive. You would think a group of students that just practiced trying to hit the ball on the sweet spot would do better than a group of students that attempted to hit the ball on different parts of the face. However, the group that practices variety will better be able to hit to the sweet spot. This is addressed in Adam Young's The Practice Manual (which should be required reading for golfers).
+
+We need to be challenged to learn. The challenge itself can be nearly imperceptible to us, but it needs to be present for optimal learning. The reason for this is that when we initially learn a skill, we store a memory of it--an engram. The brain consolidates the memory, making it retrievable (this is part of why resting between practice is so important). When we later access the skill, we are reinforcing the need for that memory. But, if we modify the skill, we are allowing for reconsolidation of that memory--a much better way to reinforce skills and their associated engrams.
+
+Part of why changing the skills is effective at promoting learning is that the change puts some focus on feedback. If we just repeat a skill, we are not really paying attention to how it feels. Changing something, and looking to determine if we successfully executed the change, essentially allows our brains store more information into one memory (using less active memory, allows our attention to shift--making smaller circles). This is called memory chunking, which is the process of connecting pieces of information into a single unit, a chunk. Chunking is also why some individuals seem to have more talent than others--but that would be yet another tangent to cover transferability. While transferability is important with golf, that really needs to be covered elsewhere.
+
+To achieve lasting skill progression, interval is more important than intensity. Spaced intervals are what is needed to reinforce the skill. Rest is where the encoding happens in our brains, even if it doesn't feel that way. Overdoing your practice can do more harm than good. It's easy to see how overtraining can injure the body, but our minds actually need even more rest if the goal is on skill progression. This is why short sessions, with a dedicated purpose focusing on skill adaptability (randomness and variability in skill execution--changing your swing) can be more effective than multi-hour practice sessions. The long session is more taxing to our bodies than to our minds.
+
+Ideally, part of the feedback should be persisted as measurements. Measurement is crucial to learning effectively. It lets us know whether a skill change helped or hurt our performance. In today's world, we are almost measuring too much. We need to know what measurements matter, the first step of which is defining goals. Studies have shown that just measuring without conscious behavior change affects a desired result. Crazy as it sounds, if your goal is weight loss research suggests that merely stepping on a scale every day without changing your diet will result in weight loss.
+
+To summarize, the most effective way to learn or develop a skill requires that we have a goal that is used to inform what we should practice, introduce variety into dedicated practice, and measure results. As simple as that sounds, it takes effort to only practice when we can fully pay attention and to always be considering what our goals are.
+
+This isn't to say that every practice must be optimized. Sometimes it's fun to just hit balls. It's also fun to be a beginner, to be in that easy learning mode. But it's arguably more fun to be better. In golf, you cannot get so good that you are done learning. This game is as brutal as it is rewarding, so spend some time getting better at learning so that you can keep getting better at golf.
