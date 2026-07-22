@@ -1,4 +1,10 @@
-# Golf Better Everyday
+---
+title: "Golf Better Everyday"
+date: 2026-07-20 10:00:00 -0400
+categories: [Learning]
+tags: [kaizen, goals, measurement, continuous-improvement, practice]
+description: How a kaizen mindset — continuous, measurable, 1/10th-of-a-percent improvement — applies to golf, built on well-defined main, process, and short-term goals.
+---
 
 A golf buddy of mine was always vocally reminding himself, "I just need to be 1/10th of a percent better than yesterday." He knew that his goal was not a quick win and keeping himself focused on what he could do each day to get there, that is the essence of kaizen, which is Japanese for continuous improvement.
 
