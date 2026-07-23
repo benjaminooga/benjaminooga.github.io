@@ -23,7 +23,7 @@ With all the golf information out there, it is difficult not to go down the rabb
 
 Why do you play golf? Why do you want to get better? What does 'better' look like?
 
-Our goals must be actionable. 'Be a scratch golfer' may be a long term goal, but it alone is not an actionable goal; it is too abstract. We need actionable major goals and a set of supporting goals. Ideally, all of these should be SMART goals: Specific, Measurable, Achievable, Relevant, Time-bound.
+Our goals must be actionable. 'Be a scratch golfer' may be a long term goal, but it alone is not an actionable goal; it is too abstract. We need actionable major goals and a set of supporting goals. Ideally, all of these should be SMART goals: Specific, Measurable, Achievable, Relevant, Time-bound. (For more on structuring main, process, and short-term goals, see [Golf Better Everyday]({% post_url 2026-07-20-golf-kaizen %}).)
 
 There are so many skills that go into playing golf. The better we can define our goals, the more we will be able to practice. While there is only so much technical practice that we can do, we can also physically and mentally train. Even if increased flexibility or strength training doesn't immediately support your goals, it reduces the likelihood of injury and will probably benefit your swing in the long run. We can also add in a visualization and/or mindfulness practice.
 
@@ -82,7 +82,7 @@ There's also imitation within the imitation. Golf influencers are hungry for con
 
 When we are experimenting with our game, it is important to repeat the experiment on different days. Just like our swing changes daily on the course, different changes may feel different on another day. By increasing the variety of what we experiment with, we are building our awareness of swing mechanics, body mechanics, and body awareness.
 
-Don't just hammer through the reps; know that practice with focus is quicker than mindless repetition. Work in short, strong bursts--a practice session with a dedicated focus that informs what we are practicing is vital to effective learning. A short practice session aligned to a goal is going to be more effective than hitting 300 balls without a goal.
+Don't just hammer through the reps; know that practice with focus is quicker than mindless repetition. Work in short, strong bursts--a practice session with a dedicated focus that informs what we are practicing is vital to effective learning. A short practice session aligned to a goal is going to be more effective than hitting 300 balls without a goal. (For the science behind why variety and rest work, see [Learning to Learn]({% post_url 2026-07-21-learning-to-learn %}).)
 
 
 # Outro
