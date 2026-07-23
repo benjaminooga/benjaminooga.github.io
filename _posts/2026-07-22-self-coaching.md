@@ -10,13 +10,13 @@ description: Six rules for coaching yourself in golf — define and track goals,
 
 With all the golf information out there, it is difficult not to go down the rabbit hole of self-coaching. Self-coaching should absolutely be a skill you develop, but it requires a lot of awareness and baseline technical knowledge of the golf swing. We do not want to misattribute a root cause. To that end, here are some rules to help us ensure that we remain objective and work towards continuous improvement.
 
-Rules of Self-coaching:
-	1. Define and track your goals
-	2. All practice sessions must have an intention
-	3. Separate observation from judgment
-	4. Keep coaching off the course
-	5. Imitation can be educational but it should not be the end goal
-	6. Change takes time
+**Rules of Self-coaching:**
+1. Define and track your goals
+2. All practice sessions must have an intention
+3. Separate observation from judgment
+4. Keep coaching off the course
+5. Imitation can be educational but it should not be the end goal
+6. Change takes time
 
 
 ## Rule 1: Define and track your goals
