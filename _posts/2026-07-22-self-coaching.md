@@ -23,7 +23,7 @@ With all the golf information out there, it is difficult not to go down the rabb
 
 Why do you play golf? Why do you want to get better? What does 'better' look like?
 
-Our goals must be actionable. 'Be a scratch golfer' may be a long term goal, but it alone is not an actionable goal; it is too abstract. We need actionable major goals and a set of supporting goals. Ideally, all of these should be SMART goals: Specific, Measurable, Achievable, Relevant, Time-bound. (For more on structuring main, process, and short-term goals, see [Golf Better Everyday]({% post_url 2026-07-20-golf-kaizen %}).)
+Our goals must be actionable. 'Be a scratch golfer' may be a long term goal, but it alone is not an actionable goal; it is too abstract. We need actionable major goals and a set of supporting goals. Ideally, all of these should be SMART goals: Specific, Measurable, Achievable, Relevant, Time-bound. (For more on structuring main, process, and short-term goals, see [Golf Better Everyday]({% post_url 2026-07-20-golf-kaizen %}); for working a major goal down into supporting goals and tasks, see [Setting Goals]({% post_url 2026-07-23-goals %}).)
 
 There are so many skills that go into playing golf. The better we can define our goals, the more we will be able to practice. While there is only so much technical practice that we can do, we can also physically and mentally train. Even if increased flexibility or strength training doesn't immediately support your goals, it reduces the likelihood of injury and will probably benefit your swing in the long run. We can also add in a visualization and/or mindfulness practice.
 
