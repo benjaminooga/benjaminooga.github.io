@@ -1,0 +1,5 @@
+# Post authors. Referenced by the `author` key in post front matter.
+# The site-wide footer copyright owner is set separately via `social.name` in _config.yml.
+benjamin:
+  name: Benjamin
+  url: https://github.com/benjaminooga
