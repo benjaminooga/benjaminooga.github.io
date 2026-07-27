@@ -1,0 +1,43 @@
+---
+---
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+/* Magazine-style pull-out aside, applied with {: .pullout } */
+.pullout {
+  border-left: 0;
+  border-top: 2px solid var(--link-color);
+  background: var(--card-bg);
+  border-radius: 0 0 6px 6px;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--text-muted-color);
+
+  .pullout-title {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-family: Lato, sans-serif;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--link-color);
+  }
+
+  > p:last-child {
+    margin-bottom: 0;
+  }
+}
