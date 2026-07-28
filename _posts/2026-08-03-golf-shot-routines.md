@@ -15,7 +15,7 @@ Be a Player does a great job of establishing a simple framework and guides you t
 * "On one hole, listen for the sound of impact or hum a song."
 * "On one hole, use your strongest or most confident voice to state your decision out loud before stepping into your Play Box."
 
-Some of these feel silly or even counter-productive--but that's part of the process: you need to figure out what works for you. Treat them as experiments and change one thing at a time, the same approach I argue for in [Tangent: Swing Fix Videos]({% post_url 2026-07-24-swing-fix-videos %}). I generally do not care for music on the golf course (being more honest, I hate it). While it does not help me focus, playing one slow round by myself, I put in headphones and was amazed that it helped me to not get dragged down by the pace and I was able to switch back to focus mode for each shot. After doing that exercise, I am better about hearing music as just another distraction--like talking--to tune out. If I'm distracted, it's my fault for not focusing.
+Some of these feel silly or even counter-productive--but that's part of the process: you need to figure out what works for you. I generally do not care for music on the golf course (being more honest, I hate it). While it does not help me focus, playing one slow round by myself, I put in headphones and was amazed that it helped me to not get dragged down by the pace and I was able to switch back to focus mode for each shot. After doing that exercise, I am better about hearing music as just another distraction--like talking--to tune out. If I'm distracted, it's my fault for not focusing.
 
 
 ## Think Box: Pre-Shot Routine
@@ -27,7 +27,7 @@ Our minds are stupid and tricky so this is the hard part of the game. The stupid
 
 If we perceive a bad shot as undesirable, it registers as a threat. The amygdala doesn't perceive a difference between an angry grizzly and a threatening greenside bunker. As we repeat exposure to this threat, the response gets wired in to save time: see bunker, heart rate spikes, get ready to run. Obviously counterproductive to a smooth swing.
 
-So the tricky part is using the neocortex to calm the amygdala down, while also programming the basal ganglia—the part of the brain responsible for habit formation and motor movement—to make good swings automatic. That programming is the same motor-learning problem covered in [Learning to Learn]({% post_url 2026-07-21-learning-to-learn %})--reps with attention, variety, and rest. Two helpful strategies are a mindfulness practice, and learning to reframe (you're not nervous, you're excited).
+So the tricky part is using the neocortex to calm the amygdala down, while also programming the basal ganglia—the part of the brain responsible for habit formation and motor movement—to make good swings automatic. Two helpful strategies are a mindfulness practice, and learning to reframe (you're not nervous, you're excited).
 
 In the think box, we want to creating the habit of staying positive to quiet our minds and facilitate being able to focus. Pay attention to how you assess your shots. We're not trying to stay positive in a Pollyanna-no-bad-thoughts sort of way, we want to word things around our desired outcomes. For instance, if your last thought before you address the ball is, "don't slice it into that lake," you are about to be focused on the lake. Instead, a more positive approach is to think, "Because of the water on the right, I need to land my shot to the left" This sets you up for thinking about the target, not the non-target. When we process a linguistic negative, it is a two-step simulation, the first step being to process the concept before the negation. So thinking, "don't hook it" is a great way to hook the ball.
 
@@ -55,7 +55,7 @@ If the outcome was good, have that happy emotion. Set that fist pump free, smile
 ## Post-round Review
 Use those great shots as visualization fodder. Reinforce them so that they show up more.
 
-Use your bad shots, and your objective reviews, to determine if you need to work on certain aspects of your game. Don't let one round hijack your entire training plan--check what you're seeing against the [goals]({% post_url 2026-07-23-goals %}) driving it before you change anything. As with all things, we want to iterate--[small meaningful changes]({% post_url 2026-07-20-golf-kaizen %}).
+Use your bad shots, and your objective reviews, to determine if you need to work on certain aspects of your game. Don't let one round hijack your entire training plan. As with all things, we want to iterate--[small meaningful changes]({% post_url 2026-07-20-golf-kaizen %}).
 
 Part of this review should include journaling the round. Our strengths, feels, and faults change over time. Having these things logged can be just as helpful to figuring your game out as is quantified data.
 
