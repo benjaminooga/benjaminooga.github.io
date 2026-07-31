@@ -8,14 +8,14 @@ description: Why variable practice beats blocked repetition for retention and tr
 
 Some days it feels great to just focus on one club and hit balls. Or those rare sessions where every club, and near every swing, feels just right. But if we really want the results of practice sessions to show up on the course, there are better approaches. We need to add variability and transference (transfer is what brings your driving range swing to the golf course).
 
-If you are guilty of spending too much time repeating shots (chipping a full tube of balls to the same pin, half a dozen putts on the same line, half the bucket on one club), experiment with experimentation. As Rob Gray writes in How We Learn to Move, "variability, not repeatability or repetition, rules the day in skilled performance." So break out of the comfortable mold of hitting to one target.
+If you are guilty of spending too much time repeating shots (chipping a full tube of balls to the same pin, half a dozen putts on the same line, half the bucket on one club), experiment with experimentation. As [Rob Gray](https://perceptionaction.com/) writes in How We Learn to Move, "variability, not repeatability or repetition, rules the day in skilled performance." So break out of the comfortable mold of hitting to one target.
 
 This is tough to gauge, but if it feels difficult or you feel you are not hitting well, you may be getting more out of your practice. Remember that session gains aren't the goal. They can show that we're progressing but retention is more important and transfer is even more important. We are not practicing to swing better, we are practicing to golf better. This takes time. Block practice for new skills, variable practice for building retention.
 
 
 ## Guiding Principles
 **Turf trumps mats** More transferable and inherently variable, hitting of turf is better. Embrace the mishits, learn from them. When you do get a straight line of thin divots you'll know you earned it.
-**Practice your misses** This sounds weird, but if you are struggling with a hook, hit a bigger hook and then try to hit a slice. This is something Adam Young talks about in __The Practice Manual__ (which should be required reading for all golfers (alright, probably too technical for most, but it is a great read)). We need to improve our clubhead awareness. Learning to feel your hits and misses will help you repeat them. Just like you can't know happiness without sadness, you can't know flush without flubbed.
+**Practice your misses** This sounds weird, but if you are struggling with a hook, hit a bigger hook and then try to hit a slice. This is something [Adam Young](https://www.adamyounggolf.com/) talks about in __The Practice Manual__ (which should be required reading for all golfers (alright, probably too technical for most, but it is a great read)). We need to improve our clubhead awareness. Learning to feel your hits and misses will help you repeat them. Just like you can't know happiness without sadness, you can't know flush without flubbed.
 **Change your target** Don't hit to the same target shot after shot. Even if you don't change your target line, hone in on a different target. This will also help you target greens better, because we are not always aiming at the flag.
 
 
