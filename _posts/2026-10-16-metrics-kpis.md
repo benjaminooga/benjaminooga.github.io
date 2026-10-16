@@ -1,14 +1,23 @@
-# Golf Metrics & KPIs
+---
+title: "Golf Metrics & KPIs"
+date: 2026-10-16 10:05:00 -0400
+categories: [Learning]
+tags: [measurement, metrics, KPI, tracking, data]
+description: A reference list of round- and hole-level golf metrics, how to record each one, and the KPIs they roll up into--with handicap-banded benchmarks from Shot Scope and Arccos data for comparison.
+---
+
 What follows is for idea purposes only. Depending on where your game is at, some of these items will not make sense to track. In fact, tracking certain stats too early may hurt your progress by putting a focus on something that is not a root cause. Disclaimer aside, if you know that data has no meaning until it is interpreted and it will not adversely affect your confidence/performance, feel free to track more than less. You may appreciate the data set later.
 
 - **Measurement** data point recording what happened
 - **Metric** a series of measurements; generally does not have a target but used to determine KPIs
 - **Key Performance Indicator (KPI)** measure of how well it happened, calculated from the metrics and compared against goal or benchmark (such as handicap index (HI))
+
 Since what follows is a set of measurements to get you thinking about what to track, it is not exhaustive. For instance, hole-based metrics has 'number of putts,' but round-based metrics does not include 'total putts.' Additionally, as you progress, you may only care about tracking 'number of three putts.'
 The overall pattern is that hole-based metrics are aggregated as round-based metrics. Round-based metrics over time illustrate how we are tracking against our KPIs. KPIs are generally an average of round-based metrics.
-A bit more detailed
+Here's the detail, broken down by round and hole level.
 ---
 ## Metrics: Round Level
+
 | Metric | How to record | Used for |
 |---|---|---|
 | Date | Date played | Trends, last-20 handicap window |
@@ -18,7 +27,9 @@ A bit more detailed
 | Holes played | 9 or 18 | Normalizing per-round KPIs |
 | Conditions | Wind, temperature, firm/soft, rain | Explaining outlier rounds |
 | Adjusted gross score | Total score with each hole capped at net double bogey | Score differential |
+
 ## Metrics: Hole Level
+
 | Metric | How to record | Used for |
 |---|---|---|
 | Par | 3 / 4 / 5 | Scoring by par, GIR |
@@ -36,9 +47,13 @@ A bit more detailed
 | Putts | Count | 3-putts |
 | Putt distances | Feet for each putt (e.g. 24, 3) | Make % by distance, first-putt leave, missed <3 ft |
 | Penalty strokes | Count | Penalties |
+
 ---
+
 ## KPIs (calculated, with HI benchmarks)
+
 Benchmarks are averages from shot-tracker user data, mostly Shot Scope's. They are not definitive: the users are self-selected, handicaps may be app-calculated, and no sample sizes are published. "—" means no published benchmark exists for that handicap; set your own baseline from your first 10–20 rounds. Per-round values marked "×18" are converted from published per-hole percentages.
+
 | Category | KPI | Calculation | Scratch | 5 HI | 10 HI | 15 HI | 20 HI | Source | Purpose |
 |---|---|---|---|---|---|---|---|---|---|
 | Outcome | Score differential | (113 ÷ Slope) × (Adj. gross − Course rating) | — | — | — | — | — | | The result all other KPIs roll up to. Your index is roughly the average of your best 8 of your last 20 differentials, so your typical round runs a few strokes above it. |
@@ -65,7 +80,9 @@ Benchmarks are averages from shot-tracker user data, mostly Shot Scope's. They a
 | Putting | Make % 0–6 ft | Holed ÷ attempts from 0–6 ft | 93% | 89% | 89% | 85% | 84% | † | Par-saving putts. (Scratch makes 76% from 3–6 ft.) |
 | Putting | Make % 6–12 ft | Holed ÷ attempts from 6–12 ft | 43% | 41% | 38% | 40% | 38% | ‡ | Scrambling and birdie conversion |
 | Putting | First-putt leave, 20+ ft | Avg 2nd-putt distance when 1st putt ≥ 20 ft | 4.6 ft | — | — | — | — | * | Speed control (leading indicator of 3-putts). Published figures are from ~30 ft; 25 HI: 7.8 ft. |
+
 **Source legend**
+
 | Symbol | Source |
 |---|---|
 | † | Shot Scope, "Law of Averages" series (2024, updated 2025): [0 HI](https://shotscope.com/blog/practice-green/game-improvement/reduce-hcp-law-of-averages-0hcp/), [5 HI](https://shotscope.com/blog/stats/reduce-your-handicap-5hcp-averages/), [10 HI](https://shotscope.com/blog/stats/10handicap-law-of-averages-series/), [15 HI](https://shotscope.com/blog/stats/reduce-your-handicap-15hcp/), [20 HI](https://shotscope.com/blog/practice-green/game-improvement/reduce-your-handicap-20hcp-averages/) |
